@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 173 173">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Abduction2000, Abduction2000;
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <image width="346" height="346" transform="scale(.5)" xlink:href="../2x/canhon2.png"/>
+      <text class="cls-1" transform="translate(80.69 93.47)"><tspan x="0" y="0">MOON</tspan></text>
+    </g>
+  </g>
+</svg>
